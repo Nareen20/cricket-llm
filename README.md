@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+Cricket-LLM
+This repository contains the development of a cricket-based language learning model (LLM). The project leverages machine learning and AI techniques to analyze and process cricket-related data, providing insights and predictions based on user input.
+
+Features
+Cricket Data Analysis: Utilize structured data to predict match outcomes and player statistics.
+Language Model: Offers intelligent suggestions related to cricket terminology and context.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
