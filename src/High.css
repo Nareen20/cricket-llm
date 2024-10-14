@@ -1,0 +1,36 @@
+/* High.css */
+.main {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .highlights {
+    width: 45%;
+  }
+  
+  .video-player {
+    width: 45%;
+  }
+  
+  #matchesList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .link-button {
+    background: none;
+    border: none;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  .link-button:hover {
+    color: darkblue;
+  }
+  

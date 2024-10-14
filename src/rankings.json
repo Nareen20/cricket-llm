@@ -1,0 +1,72 @@
+{
+    "t20": {
+      "batting": [
+        { "serial_number": 1, "player": "Babar Azam", "rating": 850 },
+        { "serial_number": 2, "player": "Dawid Malan", "rating": 820 },
+        { "serial_number": 3, "player": "Aaron Finch", "rating": 780 },
+        { "serial_number": 4, "player": "Virat Kohli", "rating": 760 },
+        { "serial_number": 5, "player": "KL Rahul", "rating": 740 }
+      ],
+      "bowling": [
+        { "serial_number": 1, "player": "Tabraiz Shamsi", "rating": 730 },
+        { "serial_number": 2, "player": "Wanindu Hasaranga", "rating": 710 },
+        { "serial_number": 3, "player": "Adil Rashid", "rating": 690 },
+        { "serial_number": 4, "player": "Rashid Khan", "rating": 670 },
+        { "serial_number": 5, "player": "Mujeeb Ur Rahman", "rating": 650 }
+      ],
+      "all_rounders": [
+        { "serial_number": 1, "player": "Mohammad Nabi", "rating": 600 },
+        { "serial_number": 2, "player": "Shakib Al Hasan", "rating": 580 },
+        { "serial_number": 3, "player": "Glenn Maxwell", "rating": 560 },
+        { "serial_number": 4, "player": "Wanindu Hasaranga", "rating": 540 },
+        { "serial_number": 5, "player": "Ben Stokes", "rating": 520 }
+      ]
+    },
+    "odi": {
+      "batting": [
+        { "serial_number": 1, "player": "Virat Kohli", "rating": 890 },
+        { "serial_number": 2, "player": "Rohit Sharma", "rating": 860 },
+        { "serial_number": 3, "player": "Babar Azam", "rating": 830 },
+        { "serial_number": 4, "player": "Ross Taylor", "rating": 800 },
+        { "serial_number": 5, "player": "Aaron Finch", "rating": 780 }
+      ],
+      "bowling": [
+        { "serial_number": 1, "player": "Trent Boult", "rating": 760 },
+        { "serial_number": 2, "player": "Jasprit Bumrah", "rating": 740 },
+        { "serial_number": 3, "player": "Mujeeb Ur Rahman", "rating": 720 },
+        { "serial_number": 4, "player": "Kagiso Rabada", "rating": 700 },
+        { "serial_number": 5, "player": "Chris Woakes", "rating": 680 }
+      ],
+      "all_rounders": [
+        { "serial_number": 1, "player": "Ben Stokes", "rating": 660 },
+        { "serial_number": 2, "player": "Shakib Al Hasan", "rating": 640 },
+        { "serial_number": 3, "player": "Mohammad Nabi", "rating": 620 },
+        { "serial_number": 4, "player": "Hardik Pandya", "rating": 600 },
+        { "serial_number": 5, "player": "Chris Woakes", "rating": 580 }
+      ]
+    },
+    "test": {
+      "batting": [
+        { "serial_number": 1, "player": "Kane Williamson", "rating": 910 },
+        { "serial_number": 2, "player": "Steve Smith", "rating": 890 },
+        { "serial_number": 3, "player": "Marnus Labuschagne", "rating": 870 },
+        { "serial_number": 4, "player": "Joe Root", "rating": 850 },
+        { "serial_number": 5, "player": "Virat Kohli", "rating": 830 }
+      ],
+      "bowling": [
+        { "serial_number": 1, "player": "Pat Cummins", "rating": 800 },
+        { "serial_number": 2, "player": "Ravichandran Ashwin", "rating": 780 },
+        { "serial_number": 3, "player": "Tim Southee", "rating": 760 },
+        { "serial_number": 4, "player": "Kagiso Rabada", "rating": 740 },
+        { "serial_number": 5, "player": "James Anderson", "rating": 720 }
+      ],
+      "all_rounders": [
+        { "serial_number": 1, "player": "Ben Stokes", "rating": 700 },
+        { "serial_number": 2, "player": "Ravindra Jadeja", "rating": 680 },
+        { "serial_number": 3, "player": "Jason Holder", "rating": 660 },
+        { "serial_number": 4, "player": "Shakib Al Hasan", "rating": 640 },
+        { "serial_number": 5, "player": "Mohammad Nabi", "rating": 620 }
+      ]
+    }
+  }
+  

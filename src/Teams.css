@@ -1,0 +1,51 @@
+/* .teamButton {
+    margin: 5px;
+  }
+  
+  .teamDetails {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+   */
+
+
+
+   .teamButton {
+    margin: 5px;
+    background-color: #004f83; /* Change this to your preferred color */
+    color: white; /* Ensure the text is readable */
+    border: none; /* Optional: remove border */
+    padding: 10px 20px; /* Optional: add padding */
+    border-radius: 5px; /* Optional: add rounded corners */
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  
+  .teamButton:hover {
+    background-color:rgb(88, 168, 224); /* Optional: change color on hover */
+  }
+  
+  .teamDetails {
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  

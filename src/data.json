@@ -1,0 +1,48 @@
+{
+  "matches": [
+    {
+      "match": "IND vs AUS T20",
+      "teams": {
+        "india": [
+          { "batter": "Rohit Sharma(c)", "runs": 92, "strike_rate": 224.39 },
+          { "batter": "V Kohli", "runs": 10, "strike_rate": 100.0 },
+          { "batter": "R Pant(Wk)", "runs": 13, "strike_rate": 107.14 },
+          { "batter": "S Yadav", "runs": 29, "strike_rate": 193.75 },
+          { "batter": "S Dube", "runs": 28, "strike_rate": 127.27 },
+          { "batter": "H Pandya", "runs": 22, "strike_rate": 158.82 },
+          { "batter": "R Jadeja", "runs": 8, "strike_rate": 180.0 }
+        ],
+        "australia": [
+          { "batter": "D Warner", "runs": 6, "strike_rate": 100.0 },
+          { "batter": "T Head", "runs": 76, "strike_rate": 176.74 },
+          { "batter": "M Marsh(c)", "runs": 37, "strike_rate": 132.14 },
+          { "batter": "G Maxwell", "runs": 20, "strike_rate": 166.67 },
+          { "batter": "M Stoinis", "runs": 2, "strike_rate": 50.0 },
+          { "batter": "T David", "runs": 15, "strike_rate": 136.36 },
+          { "batter": "M Wade(Wk)", "runs": 1, "strike_rate": 50.0 },
+          { "batter": "P Cummins", "runs": 4, "strike_rate": 57.14 }
+        ]
+      }
+    },
+    {
+      "match": "NZ vs WI T20",
+      "teams": {
+        "new_zealand": [
+          { "batter": "K Williamson(c)", "runs": 1, "strike_rate": 50.00 },
+          { "batter": "F Allen", "runs": 26, "strike_rate": 113.04 },
+          { "batter": "R Ravindra", "runs": 10, "strike_rate": 76.92 },
+          { "batter": "D Conway(wk)", "runs": 5, "strike_rate": 62.50 },
+          { "batter": "D Mitchell", "runs": 12, "strike_rate": 92.31 },
+          { "batter": "G Phillips", "runs": 40, "strike_rate": 121.21 },
+          { "batter": "D Conway(wk)", "runs": 5, "strike_rate": 62.50 }
+        ],
+        "west_indies": [
+          { "batter": "E Lewis", "runs": 12, "strike_rate": 92.31 },
+          { "batter": "C Gayle", "runs": 25, "strike_rate": 138.89 },
+          { "batter": "N Pooran(Wk)", "runs": 23, "strike_rate": 153.33 },
+          { "batter": "K Pollard(c)", "runs": 28, "strike_rate": 233.33 }
+        ]
+      }
+    }
+  ]
+}
