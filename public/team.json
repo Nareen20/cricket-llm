@@ -1,0 +1,203 @@
+[
+    {
+      "name": "India",
+      "players": [
+        { "name": "Rohit Sharma", "role": "Batsman" },
+        { "name": "Virat Kohli", "role": "Batsman" },
+        { "name": "Rishabh Pant", "role": "Batsman" },
+        { "name": "Hardik Pandya", "role": "All-rounder" },
+        { "name": "Jasprit Bumrah", "role": "Bowler" },
+        { "name": "Surya Kumar Yadav", "role": "Batsman" },
+        { "name": "Shivam Dube", "role": "All-rounder" },
+        { "name": "R Jadeja", "role": "All-rounder" },
+        { "name": "Axar Patel", "role": "All-rounder" },
+        { "name": "M Siraj", "role": "Bowler" },
+        { "name": "Arshadeep", "role": "Bowler" },
+        { "name": "Kuldeep Yadav", "role": "Bowler" },
+        { "name": "Sanju Samson", "role": "Batsman" },
+        { "name": "Y Jaishwal", "role": "Batsman" },
+        { "name": "Y Chahal", "role": "Bowler" }
+      ]
+    },
+    {
+      "name": "Australia",
+      "players": [
+        { "name": "David Warner", "role": "Batsman" },
+        { "name": "Travis Head", "role": "Batsman" },
+        { "name": "Pat Cummins", "role": "Bowler" },
+        { "name": "Glenn Maxwell", "role": "All-rounder" },
+        { "name": "M Wade", "role": "Batsman" },
+        { "name": "M Marsh", "role": "All-rounder" },
+        { "name": "C Green", "role": "All-rounder" },
+        { "name": "A Agar", "role": "Bowler" },
+        { "name": "J Hazlewood", "role": "Bowler" },
+        { "name": "T David", "role": "All-rounder" },
+        { "name": "J Inglis", "role": "Batsman" },
+        { "name": "N Ellis", "role": "Bowler" },
+        { "name": "M Stoinis", "role": "All-rounder" },
+        { "name": "M Starc", "role": "Bowler" },
+        { "name": "A Zampa", "role": "Bowler" }
+      ]
+    },
+    {
+      "name": "England",
+      "players": [
+        { "name": "P Salt", "role": "Batsman" },
+        { "name": "Jos Buttler(c & wk)", "role": "Batsman" },
+        { "name": "L Livingstone", "role": "All-rounder" },
+        { "name": "Jofra Archer", "role": "Bowler" },
+        { "name": "Jonny Bairstow", "role": "Batsman" },
+        { "name": "W Jacks", "role": "Batsman" },
+        { "name": "T Hartley", "role": "Bowler" },
+        { "name": "S Curran", "role": "All-rounder" },
+        { "name": "M Ali", "role": "All-rounder" },
+        { "name": "H Brook", "role": "Batsman" },
+        { "name": "B Duckett(wk)", "role": "Batsman" },
+        { "name": "R Topley", "role": "Bowler" },
+        { "name": "M Wood", "role": "Bowler" },
+        { "name": "A Rashid", "role": "Bowler" },
+        { "name": "C Jordan", "role": "Bowler" }
+      ]
+    },
+    {
+      "name": "South Africa",
+      "players": [
+        { "name": "Quinton de Kock(wk)", "role": "Batsman" },
+        { "name": "A Markram(c)", "role": "Batsman" },
+        { "name": "Kagiso Rabada", "role": "Bowler" },
+        { "name": "David Miller", "role": "Batsman" },
+        { "name": "M Jansen", "role": "All-rounder" },
+        { "name": "R Hendricks", "role": "Batsman" },
+        { "name": "T Stubbs", "role": "Batsman" },
+        { "name": "R Rickelton", "role": "Batsman" },
+        { "name": "H Klaasen(wk)", "role": "Batsman" },
+        { "name": "O Bartman", "role": "Bowler" },
+        { "name": "T Shamsi", "role": "Bowler" },
+        { "name": "G Coetzee", "role": "Bowler" },
+        { "name": "A Nortje", "role": "Bowler" },
+        { "name": "K Maharaj", "role": "Bowler" },
+        { "name": "B Fortuin", "role": "Bowler" }
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "players": [
+        { "name": "Kane Williamson(c)", "role": "Batsman" },
+        { "name": "G Phillips", "role": "Batsman" },
+        { "name": "Trent Boult", "role": "Bowler" },
+        { "name": "F Allen(wk)", "role": "Batsman" },
+        { "name": "D Conway(wk)", "role": "Batsman" },
+        { "name": "M Santner", "role": "All-rounder" },
+        { "name": "R Ravindra", "role": "All-rounder" },
+        { "name": "D Mitchell", "role": "All-rounder" },
+        { "name": "M Chapman", "role": "All-rounder" },
+        { "name": "M Bracewell", "role": "All-rounder" },
+        { "name": "J Neesham", "role": "All-rounder" },
+        { "name": "I Sodhi", "role": "Bowler" },
+        { "name": "T Southee", "role": "Bowler" },
+        { "name": "L Ferguson", "role": "Bowler" },
+        { "name": "M Henry", "role": "Bowler" }
+      ]
+    },
+    {
+      "name": "West Indies",
+      "players": [
+        { "name": "R Powell(c)", "role": "Batsman" },
+        { "name": "A Russell", "role": "All-rounder" },
+        { "name": "A Hosein", "role": "Bowler" },
+        { "name": "N Pooran(wk)", "role": "Batsman" },
+        { "name": "Alzarri Joseph", "role": "Bowler" },
+        { "name": "G Motie", "role": "All-rounder" },
+        { "name": "K Mayers", "role": "All-rounder" },
+        { "name": "S Rutherford", "role": "All-rounder" },
+        { "name": "R Chase", "role": "All-rounder" },
+        { "name": "R Shepherd", "role": "All-rounder" },
+        { "name": "S Hetmyer", "role": "Batsman" },
+        { "name": "S Hope(wk)", "role": "Batsman" },
+        { "name": "J Charles(wk)", "role": "Batsman" },
+        { "name": "O McCoy", "role": "Bowler" },
+        { "name": "S Joseph", "role": "Bowler" }
+      ]
+    },
+    {
+      "name": "Pakistan",
+      "players": [
+        { "name": "Babar Azam(c)", "role": "Batsman" },
+        { "name": "Mohammad Rizwan(wk)", "role": "Batsman" },
+        { "name": "Shaheen Afridi", "role": "Bowler" },
+        { "name": "Shadab Khan", "role": "All-rounder" },
+        { "name": "Fakhar Zaman", "role": "Batsman" },
+        { "name": "Haris Rauf", "role": "Bowler" },
+        { "name": "Imad Wasim", "role": "All-rounder" },
+        { "name": "Shoaib Malik", "role": "All-rounder" },
+        { "name": "Mohammad Hafeez", "role": "All-rounder" },
+        { "name": "Hasan Ali", "role": "Bowler" },
+        { "name": "Usman Qadir", "role": "Bowler" },
+        { "name": "Sarfaraz Ahmed", "role": "Batsman" },
+        { "name": "Asif Ali", "role": "Batsman" },
+        { "name": "Haider Ali", "role": "Batsman" },
+        { "name": "Iftikhar Ahmed", "role": "All-rounder" }
+      ]
+    },
+    {
+      "name": "Afghanistan",
+      "players": [
+        { "name": "Rashid Khan(c)", "role": "Bowler" },
+        { "name": "Mohammad Nabi", "role": "All-rounder" },
+        { "name": "Mujeeb Ur Rahman", "role": "Bowler" },
+        { "name": "Rahmanullah Gurbaz(wk)", "role": "Batsman" },
+        { "name": "Hazratullah Zazai", "role": "Batsman" },
+        { "name": "Najibullah Zadran", "role": "Batsman" },
+        { "name": "Gulbadin Naib", "role": "All-rounder" },
+        { "name": "Ibrahim Zadran", "role": "Batsman" },
+        { "name": "Karim Janat", "role": "All-rounder" },
+        { "name": "Naveen-ul-Haq", "role": "Bowler" },
+        { "name": "Qais Ahmad", "role": "Bowler" },
+        { "name": "Afsar Zazai(wk)", "role": "Batsman" },
+        { "name": "Usman Ghani", "role": "Batsman" },
+        { "name": "Sharafuddin Ashraf", "role": "All-rounder" },
+        { "name": "Hamid Hassan", "role": "Bowler" }
+      ]
+    },
+    {
+      "name": "Sri Lanka",
+      "players": [
+        { "name": "Dasun Shanaka(c)", "role": "All-rounder" },
+        { "name": "Kusal Perera(wk)", "role": "Batsman" },
+        { "name": "Wanindu Hasaranga", "role": "All-rounder" },
+        { "name": "Dushmantha Chameera", "role": "Bowler" },
+        { "name": "Pathum Nissanka", "role": "Batsman" },
+        { "name": "Avishka Fernando", "role": "Batsman" },
+        { "name": "Charith Asalanka", "role": "Batsman" },
+        { "name": "Bhanuka Rajapaksa", "role": "Batsman" },
+        { "name": "Chamika Karunaratne", "role": "All-rounder" },
+        { "name": "Maheesh Theekshana", "role": "Bowler" },
+        { "name": "Lahiru Kumara", "role": "Bowler" },
+        { "name": "Nuwan Pradeep", "role": "Bowler" },
+        { "name": "Dhananjaya de Silva", "role": "All-rounder" },
+        { "name": "Danushka Gunathilaka", "role": "Batsman" },
+        { "name": "Isuru Udana", "role": "Bowler" }
+      ]
+    },
+    {
+      "name": "Bangladesh",
+      "players": [
+        { "name": "Shakib Al Hasan(c)", "role": "All-rounder" },
+        { "name": "Mushfiqur Rahim(wk)", "role": "Batsman" },
+        { "name": "Tamim Iqbal", "role": "Batsman" },
+        { "name": "Mustafizur Rahman", "role": "Bowler" },
+        { "name": "Mahmudullah", "role": "All-rounder" },
+        { "name": "Soumya Sarkar", "role": "Batsman" },
+        { "name": "Litton Das", "role": "Batsman" },
+        { "name": "Afif Hossain", "role": "All-rounder" },
+        { "name": "Taskin Ahmed", "role": "Bowler" },
+        { "name": "Mehidy Hasan", "role": "All-rounder" },
+        { "name": "Mohammad Saifuddin", "role": "Bowler" },
+        { "name": "Nurul Hasan", "role": "Batsman" },
+        { "name": "Ebadot Hossain", "role": "Bowler" },
+        { "name": "Shoriful Islam", "role": "Bowler" },
+        { "name": "Mahedi Hasan", "role": "All-rounder" }
+      ]
+    }
+  ]
+  
