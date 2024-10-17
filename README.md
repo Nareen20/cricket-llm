@@ -79,5 +79,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Project Certificate
 
-You can view the certificate for the **Cricket LLM** project [here]("C:\Certificates\22BD1A0586_PScertificate.pdf").
+You can view the certificate for the **Cricket LLM** project [here](["C:\Certificates\22BD1A0586_PScertificate.pdf"](https://github.com/Nareen20/cricket-llm/blob/main/22BD1A0586_PScertificate.pdf)).
 
